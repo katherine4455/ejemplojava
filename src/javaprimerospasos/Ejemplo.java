@@ -6,7 +6,9 @@ public class Ejemplo {
 		// TODO Auto-generated method stub
 System.out.println("holaMundo");
 String nombre="katherine builes";
+int numero=3;
 
+System.out.println(nombre);
 	}
 
 }
